@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bradley Spooner</h1>
 <h3 align="center">Currently a IT Help Desk Technician/ Microsoft Cloud Systems Administrator.</h3>
 
-- 🔭 I’m currently working on **Hack The Box: SOC Analyst Path.**
+- 🔭 I’m currently working on **Hack The Box: SOC Analyst Path, SIEM home labs**
 
 - ⚡ Fun fact **End goal of becoming a Cloud Engineer.**
 
