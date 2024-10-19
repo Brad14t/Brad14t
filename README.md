@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Home Lab projects.**
 
-- 📫 How to reach me **bmspoons@yahoo.com**
+- 📫 How to reach me **bradleyspooner.w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
