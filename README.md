@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Hack The Box: SOC Analyst Path, SIEM home labs**
 
-- ⚡ Fun fact **End goal of becoming a Cloud Engineer.**
+- ⚡ Fun fact **End goal of becoming a Cloud Security Engineer.**
 
-- 🌱 I’m currently learning **automation with Pyhton, Linux, and NTFS.**
+- 🌱 I’m currently learning **Incident detection and response through LAB enviorment**
 
-- 🤝 I’m looking for help with **Home Lab projects.**
+- 🤝 I’m looking for help with **Improve technical skills in SOC enviorment.**
 
 - 📫 How to reach me **bradleyspooner.w@gmail.com**
 
